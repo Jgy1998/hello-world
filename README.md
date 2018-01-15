@@ -1,2 +1,4 @@
 # hello-world
-0
+
+Now let's do it!
+I want to be a better man!
